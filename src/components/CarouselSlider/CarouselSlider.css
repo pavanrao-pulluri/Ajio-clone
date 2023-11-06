@@ -1,0 +1,25 @@
+.carousel{
+    width: 100%;
+   float: inline-end;
+   /* height: 70px; */
+    /* left: 0px; */
+}
+
+.carousel-container{
+    margin-top: 92px;
+   cursor: pointer;
+    /* width: 60%; */
+    /* height: 270px; */
+   
+}
+.carousel-item{
+    /* height: 500px; */
+}
+.carousel-title{
+    /* background-color:lightblue; */
+    color: black;
+    font-size: 20px;
+    font-weight: 900;
+    justify-content: flex-start;
+    display: flex;
+}
